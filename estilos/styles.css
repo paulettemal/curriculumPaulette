@@ -118,12 +118,12 @@ header{
   text-decoration: none;
   display: inline-block;
   font-size: 17px;
-  margin: 40px auto 0;
+  margin: 4px 2px;
   cursor: pointer;
   border: none;
   border-radius: 50px;
   transition: background-color 0.3s;
-  position: relative;
+  position: absolute;
   top: 41%;
   left: 750px;
   justify-content: center;
@@ -193,7 +193,6 @@ h1{
   left: 750px;
   font-weight: bold;
   justify-content: center;
-  margin-top:40px;
 }
 
 #textoDebajoDeHola{
@@ -202,7 +201,6 @@ h1{
   font-size: 25px;
   top: 260px;
   left: 750px;
-  margin-top:20px;
 }
 
 #photo1{
@@ -236,7 +234,6 @@ h1{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-right: 25%;
   line-height: 35px;
-  margin: 30px auto;
 }
 #resumen p{
   width: 50%;
